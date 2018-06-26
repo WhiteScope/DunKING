@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Basket2
+  m_Controller: {fileID: 9100000, guid: 9ba9eb32772d15c4da873d0f2c9bd474, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d79f73c49c892974f90a28aa09584a9b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f94ce5c110c142a43a5ae7ff03986506, type: 2}
